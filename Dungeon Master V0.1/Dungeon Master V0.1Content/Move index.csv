@@ -1,0 +1,25 @@
+id,name,type,power,accuracy,pp,priority,damage type,effects,effect chance
+0,Vine Whip,gra,45,1,25,0,Ph,0,0
+1,Tackle,nor,50,1,35,0,Ph,0,0
+2,Poison Powder,poi,25,0.75,35,0,St,1,1
+3,Petal Blizzard,gra,90,1,15,0,Ph,0,0
+4,Scratch,nor,40,1,35,0,Ph,0,0
+5,Ember,fir,40,1,25,0,Sp,2,0.1
+6,Heat Wave,fir,95,0.9,10,0,Sp,2,0.1
+7,Dragon Claw,dra,80,1,15,0,Ph,0,0
+8,Tail Whip,nor,50,1,30,0,Ph,0,0
+9,Water Gun,wat,40,1,25,0,Sp,0,0
+10,Hydro Pump,wat,110,0.8,5,0,Sp,0,0
+11,Flash Cannon,ste,80,1,10,0,Sp,7,0.1
+12,Aromatic Mist,fai,0,1,20,0,St,4,0.5
+13,Sweet Kiss,fai,145,0.75,10,0,St,7,0.5
+14,Wish,nor,0,1,10,0,Ph,6,1
+15,Dazzling Gleam,,60,1,20,0,Ph,0,0
+16,Twister,dra,80,1,20,0,Ph,0,0
+17,Ancient Power,roc,120,1,5,0,Sp,8,1
+18,Crunch,dar,85,1,20,0,Ph,0,0
+19,Outrage,dra,150,1,10,0,Ph,0,0
+20,Fire Punch,fir,80,1,15,0,Ph,0,0
+21,Ice Punch,ice,80,1,15,0,Ph,0,0
+22,Thunder Punch,ele,80,1,15,0,Ph,0,0
+23,Zen Headbutt,psy,160,0.8,10,0,Ph,0,0

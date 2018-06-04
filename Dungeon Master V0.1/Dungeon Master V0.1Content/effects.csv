@@ -1,0 +1,10 @@
+id,name,target,stat,percent,text
+0:,No effect, , ,0, 	
+1:,Poison,E,HP,0.95,has been poisoned.
+2:,Burn,E,HP,0.95,has been burned.
+3:,Illuminate,E,DEF,0.66,was blinded defence has been decreased.
+4:,Mysterious aroma,S,DEF,1.33,sniffed a mysterious aroma defence has been increased.
+5:,Confusion,E,ACC,0.95,got confused accuracy decreased
+6:,Self heal,S,HP,1.75,had their wish granted HP increased
+7:,Flinch,E,ACC,0.95,flinched accuracy decreased
+8:,Empowered,S,ATK,1.45,was empowered by ancient forces attck increased

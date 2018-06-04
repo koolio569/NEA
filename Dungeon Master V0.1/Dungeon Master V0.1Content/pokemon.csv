@@ -1,0 +1,7 @@
+name,level,HP,move1,move2,move3,move4,type,attack,defence,speed,texture,id
+Venusaur,20,80,0,1,2,3,gra,82,83,80,venusaur:76:70,0
+Charizard,20,78,4,5,6,7,fir,84,78,100,charizard:74:79,1
+Blastoise,20,79,8,9,10,11,wat,83,100,78,blastoise:66:66,2
+Togepi,1,35,12,13,14,15,fai,20,65,20,togepi:23:28,3
+Rayquaza,20,105,16,17,18,19,dra,150,90,95,rayquaza:73:80,4
+Regigigas,20,110,20,21,22,23,nor,160,110,100,regigigas:81:70,5

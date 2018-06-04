@@ -1,0 +1,11 @@
+id,name,stat,value,spriteInfo
+0,potion,HP,1.2,potion:32:32
+1,super poition,HP,1.5,superpotion:32:32
+2,hyper potion,HP,2,hyperpotion:32:32
+3,X attack,ATK,1.05,xattack:32:32
+4,2X attack,ATK,1.1,2xattack:32:32
+5,3X attack,ATK,1.2,3xattack:32:32
+6,X defence,DEF,1.05,xdefence:32:32
+7,2X defence,DEF,1.1,2xdefence:32:32
+8,3X defence,DEF,1.2,3xdefence:32:32
+9,Pokeball,-,0,pokeball:32:32

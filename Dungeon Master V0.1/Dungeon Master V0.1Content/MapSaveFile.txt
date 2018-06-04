@@ -1,0 +1,17 @@
+TextureFileName
+TileSize:Size
+MapHeight:Height
+MapLength:Length
+15:t;15:t;01:n;02:n
+04:t;05:t;06:n;07:n
+08:n;11:n;13:n;00:n
+09:n;09:n;08:n;07:n
+Player
+name;pokemonCount;pokemonId:HP;bagCount;itemId;xPos;yPos
+NPCCount:Count
+pokemonCount;pokemonId:HP;bagCount;itemId;xPos;yPos;sprite
+ChestCount:Count
+bagCount;itemId;xPos;yPos
+SignCount:Count
+text;xPos;yPos
+
